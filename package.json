@@ -1,7 +1,7 @@
 {
 	"name": "react-field-sizing-content",
 	"description": "A React-based ponyfill for `field-sizing: content`",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"author": "Jamie Kyle",
 	"license": "MIT",
 	"keywords": [
